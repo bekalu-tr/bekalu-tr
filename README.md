@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Bekalu 👋
 
-<!--
-**bekalu-tr/bekalu-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems, learning new technologies, and turning ideas into practical software.
+
+### 🚀 Technologies & Tools
+
+**Frontend**
+- HTML5, CSS3, JavaScript
+- React.js
+- TypeScript
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Database**
+- MongoDB
+- PostgreSQL
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
+
+### 💻 Featured Projects
+
+- **HerGasha** – A web platform connecting students with opportunities.
+- **Movie App** – A movie discovery application with search and favorites.
+- **Product Store** – An e-commerce application with authentication, cart, and checkout.
+
+### 📚 Currently Learning
+
+- Advanced React
+- TypeScript
+- Backend Development
+- Full-Stack Application Architecture
+
+### 🎯 My Goal
+
+To become a skilled Full-Stack Software Engineer and build impactful software solutions.
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/bekalu-tr
+- LinkedIn: www.linkedin.com/in/bekalu-tariku
